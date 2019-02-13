@@ -13,3 +13,6 @@
   display: none;
 }
 
+div.parent #tag-4 {
+  display:none;
+}
