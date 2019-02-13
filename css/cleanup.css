@@ -5,11 +5,11 @@
 }
 
 
-#wall div#tag-2 {
+#wall #tag-2 {
   display: none
 }
 
-#wall.sliced.wicked{
+#wall .sliced.wicked{
   display: none;
 
 }
